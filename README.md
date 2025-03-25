@@ -68,4 +68,4 @@ Save decrypted to: output.txt
 Output: `Hello, World!` saved to `output.txt`.
 
 ## License
-This will be under lLicense - check the [LICENSE](LICENSE) file when the source code drops.
+Check the [LICENSE](LICENSE) file.
