@@ -46,7 +46,7 @@ For now, just grab the `encrypt.exe` and `decrypt.exe` files to use the tool.
 - **Decryption**: The tool reads the hidden text from the file and uses the key to reveal it.
 
 ## Limitations
-- Only letters (A–Z, a–z, А-Я, а-я) get hidden; other characters stay as-is.
+- Only letters (A–Z, a–z) get hidden; other characters stay as-is.
 - Big texts might make the file size obviously larger.
 - Works best with files like `.wav` that don’t mind extra data at the end.
 
